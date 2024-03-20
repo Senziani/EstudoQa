@@ -1,7 +1,6 @@
 # Anotações importantes do curso de Qa
 
-
-    ## 7 Principios do teste de software
+    ## s7 Principios do teste de software
 
         *Teste identifica a presença de defeitos?
 
@@ -48,4 +47,4 @@
 
 
 
----- Proximo arquivo :  Estrategis e tipos de teste ------
+---- Proximo arquivo :  Estrategias e tipos de teste ------
