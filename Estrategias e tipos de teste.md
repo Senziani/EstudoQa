@@ -1,4 +1,4 @@
-# Estratagias e tipos de teste
+# Estrategias e tipos de teste
 
 * Como monstar uma estrutura de teste de teste para cada fase de desenvolvimento
 
@@ -15,63 +15,63 @@
 
 * **teste de integração**
 
-    • Uns dos testes mais problematicos;
-    • Verificado por logs, respostas do sistemas.
+        • Uns dos testes mais problematicos
+        • Verificado por logs, respostas do sistemas.
     
 
 * **Teste de sistema**
 
-    • Validacão como se fosse usuario
+        • Validacão como se fosse usuario
 
-            ○ Testar novas funcionalidades
-            ○ Testar antigas funcionalidades
+                ○ Testar novas funcionalidades
+                ○ Testar antigas funcionalidades
 
-                ► è normal novas funcionalidades afetarem as antigas
+                    ► è normal novas funcionalidades afetarem as antigas
 
                              
 * **Teste Funcionais**
                     
 
-    • Valida a funcionalidade do sistema
+        • Valida a funcionalidade do sistema
 
-    • Tipos de testes funcionais
+        • Tipos de testes funcionais
 
-            ○ Caixa Preta (Black Box) 
+                ○ Caixa Preta (Black Box) 
 
-                ► Sem acesso ao codigo fonte;
-                ► Você é o usuario;
-                ► Teste manuais como Criar, ler , atualizar , Deletar (CRUD).
+                    ► Sem acesso ao codigo fonte;
+                    ► Você é o usuario;
+                    ► Teste manuais como Criar, ler , atualizar , Deletar (CRUD).
 
-            ○ Caixa Branca (White Box)
+                ○ Caixa Branca (White Box)
 
-                ► Tema acesso ao codigo;
-                ► Teste de condicionais e caminhos logicos;
-                ► Fluxo de dados.
+                    ► Tema acesso ao codigo;
+                    ► Teste de condicionais e caminhos logicos;
+                    ► Fluxo de dados.
 
-            ○ Caixa Cinza (Gray Box)
+                ○ Caixa Cinza (Gray Box)
 
-                ► Misto black e white box;
-                ► Verifica como uma informação no front end se comporta no back end
+                    ► Misto black e white box;
+                    ► Verifica como uma informação no front end se comporta no back end
 
-                    ▬ Requisição HTTP
-                    ▬ Banco de dados
+                        ▬ Requisição HTTP
+                        ▬ Banco de dados
 
 * **Teste nao Funcional**
 
-    • Teste de performance , acessibilidade
+        • Teste de performance , acessibilidade
 
-        ○ Criticar protudo
+            ○ Criticar protudo
 
-            ► Validar performance , acessibilidade
-            ► Confibabilidade do sistema
-            ► Ferramentas metricas
+                ► Validar performance , acessibilidade
+                ► Confibabilidade do sistema
+                ► Ferramentas metricas
 
- * **Teste de manutenção**   
+    * **Teste de manutenção**   
 
-    • Teste de regressão 
+        • Teste de regressão 
 
-            ○ Regressão é um teste usado quando a novas funcionalidades e temos que testar
-              as antigas para saber se as novas funcionalidades na afetou a antiga
+                ○ Regressão é um teste usado quando a novas funcionalidades e temos que testar
+                as antigas para saber se as novas funcionalidades na afetou a antiga
 
             
 
