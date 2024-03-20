@@ -2,4 +2,4 @@
 
 ## Onde estudamos:
 
-  ### 07 Principios do teste de Software
+  * 07 Principios do teste de Software
