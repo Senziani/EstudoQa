@@ -66,7 +66,7 @@
                 ► Confibabilidade do sistema
                 ► Ferramentas metricas
 
-    * **Teste de manutenção**   
+* **Teste de manutenção**   
 
         • Teste de regressão 
 
