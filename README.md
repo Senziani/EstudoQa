@@ -3,4 +3,4 @@
 ## Onde estudamos:
 
   * 07 Principios do teste de Software
-  * Estrategis e tipos de teste
+  * Estrategias e tipos de teste
