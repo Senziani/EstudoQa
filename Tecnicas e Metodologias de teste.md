@@ -20,4 +20,4 @@
     - Voltado para times ageis
     - Olhando para o quadrante se ve qual teste deve ser usado
 
-![Imagem Ilustrativa](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.adapt.works%2Fintroducao-do-quadrante-de-teste-agil%2F&psig=AOvVaw2s4mELRtPdLCqcLBvnZ2VU&ust=1711166763987000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiZmYr_hoUDFQAAAAAdAAAAABAE)
+![Imagem Ilustrativa](https://blog.adapt.works//wp-content/uploads/2013/11/Quadrante-Teste-Agil.png)
