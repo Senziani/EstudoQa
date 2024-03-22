@@ -21,3 +21,23 @@
     - Olhando para o quadrante se ve qual teste deve ser usado
 
 ![Imagem Ilustrativa](https://blog.adapt.works//wp-content/uploads/2013/11/Quadrante-Teste-Agil.png)
+
+
+## V- Model
+
+- Evolução do water-fall (cascata)
+
+- Water-fall também conhecico como modelo cascata , tem uma sequencia de etapas, onde casa fase é concluida antes que possa processeguir para a proxima
+
+- Composto por 5 fases
+    - Analise de requerimentos
+    - Desing
+    - Implementação
+    - teste
+    - Manutenção
+
+
+* Continuando com v-model :
+
+![Imagem Ilustrativa](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCCz_eecMP6ZT94YvV0CN_8qNgWje83jes8eFkbmo0JJcTbNDP0Sg1nQtJnBWuSneHEI3WHDe02akOZTp8lJt9bBZGQUtTd259J_1WMAcOFL9M269FY9eElJ523X_Ph7lQewlRJs3Jr1V6/s640/modelo+V.jpg)
+
