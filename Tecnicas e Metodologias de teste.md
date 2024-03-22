@@ -6,7 +6,7 @@
 
 * importancia entre certos teste serem feitos antes em relação a gastos e garantia de qualidade
 
-    Tem 3 niveis
+*    Tem 3 niveis
       ○ UI (E2E) alto custo
       ○ Serviços Testes de mantenção integração (custo medio)
       ○ Testes unitarios  (baixo cust0)
